@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://yesroad.github.io/sitemap.xml
+Host: https://yesroad.github.io
