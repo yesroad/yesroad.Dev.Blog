@@ -4,7 +4,7 @@
 ---
 > 학습용 기술 블로그 입니다.
 
-- **[https://yesroad.dev/](https://yesroad.dev)**
+- **[https://yesroad.dev/](yesroad.dev)**
 
 
 ### Deploy
