@@ -1,9 +1,9 @@
 {
-  "name": "borderless",
+  "name": "yesroad.blog",
   "private": true,
-  "description": "Gatsby Blog, 'Borderless' Theme By Junhobaik",
+  "description": "Gatsby Blog",
   "version": "3.0.0",
-  "author": "JunhoBaik",
+  "author": "yesroad",
   "keywords": [
     "gatsby"
   ],
