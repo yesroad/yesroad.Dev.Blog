@@ -4,7 +4,7 @@ module.exports = {
   description: `프론트엔드 웹 개발 블로그입니다.`, // (* Required)
   author: `Eunggil Kim`,                         // (* Required)
   language: 'ko-KR',                            // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
-  siteUrl: 'https://yesroad.github.io',       // (* Required) 
+  siteUrl: 'https://yesroad.dev',       // (* Required) 
     // ex.'https://junhobaik.github.io'
     // ex.'https://junhobaik.github.io/' << X, Do not enter "/" at the end.
 
@@ -19,7 +19,7 @@ module.exports = {
   company: '',
   location: 'Korea',
   email: 'yesroad.dev@gmail.com',
-  website: 'https://yesroad.github.io',           // ex.'https://junhobaik.github.io'
+  website: 'https://yesroad.dev',           // ex.'https://junhobaik.github.io'
   linkedin: 'https://www.linkedin.com/in/%EC%9D%91%EA%B8%B8-%EA%B9%80-55448a185',                                     // ex.'https://www.linkedin.com/in/junho-baik-16073a19ab'
   facebook: '',                                     // ex.'https://www.facebook.com/zuck' or 'https://www.facebook.com/profile.php?id=000000000000000'
   instagram: '', // ex.'https://www.instagram.com/junhobaik'
@@ -27,7 +27,7 @@ module.exports = {
 
   /** Post */
   enablePostOfContents: true,     // TableOfContents activation (Type of Value: Boolean. Not String)
-  disqusShortname: 'https-yesroad-github-io',   // comments (Disqus sort-name)
+  disqusShortname: 'https-yesroad-dev',   // comments (Disqus sort-name)
   enableSocialShare: true,        // Social share icon activation (Type of Value: Boolean. Not String)
 
   /** Optional */
