@@ -27,7 +27,7 @@ module.exports = {
 
   /** Post */
   enablePostOfContents: true,     // TableOfContents activation (Type of Value: Boolean. Not String)
-  disqusShortname: 'eunggilkim',   // comments (Disqus sort-name)
+  disqusShortname: 'https-yesroad-github-io',   // comments (Disqus sort-name)
   enableSocialShare: true,        // Social share icon activation (Type of Value: Boolean. Not String)
 
   /** Optional */
