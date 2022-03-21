@@ -7,7 +7,13 @@
 - **[https://yesroad.github.io/](https://yesroad.github.io/)**
 
 
-<br/>
+### Deploy
+---
+> GitHub pages -> Netlify 변경
+
+- develop - Netlify 배포 Branch
+- master - Github Pages(빌드 파일 Branch)
+
 
 ### Documents
 ---
