@@ -2,9 +2,9 @@
 title: "Javascript - 연산자 (operator)"
 date: 2021-07-15
 tags:
-  - javscript
+  - javascript
 keywords:
-  - javscript
+  - javascript
   - operator
   - arithmetic 
   - increment

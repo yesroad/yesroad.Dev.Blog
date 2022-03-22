@@ -2,9 +2,9 @@
 title: "Javascript - 데이터 타입(Data Type)"
 date: 2021-07-15
 tags:
-  - javscript
+  - javascript
 keywords:
-  - javscript
+  - javascript
   - data
   - number
   - string
