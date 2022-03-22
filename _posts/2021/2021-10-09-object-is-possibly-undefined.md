@@ -91,7 +91,7 @@ keywords:
 ```tsx
   <ul className="sub">
     {/* 옵셔널 체이닝 추가 코드 */}
-    {**items[idx].subItemList?.map**((item, index) => {
+    {items[idx].subItemList?.map((item, index) => {
       return(
         <li key={index} onClick={() => onClick(idx)}>
           {item}
