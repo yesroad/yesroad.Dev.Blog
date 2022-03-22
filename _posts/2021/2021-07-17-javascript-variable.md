@@ -1,6 +1,6 @@
 ---
 title: "Javascript - 변수(variable)"
-date: 2021-10-16
+date: 2021-07-17
 tags:
   - javascript
 keywords:
