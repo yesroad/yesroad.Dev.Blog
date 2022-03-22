@@ -159,8 +159,8 @@ export default Item;
 
 - `Item` 컴포넌트에서는 `Slick.tsx` 를 import 하여 `<slick>` 내부에 아이템 리스트를 작성하여준다.
 - `Slick.tsx` 에서 정의한 `sliderProps` 중 변경이 필요할시 `Slick.tsx` 에 props 를 전달하여 해당 옵션값을 변경할수 있다. `ex) <Slick autoplay={false} >`
+
 ---
-<br/>
 
 ### 참고사이트
 
