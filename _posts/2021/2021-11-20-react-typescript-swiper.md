@@ -145,4 +145,4 @@ Swiper 을 사용하여 작업시 필요한 옵션 및 메소드에 대한 정�
 [Swiper APi](https://swiperjs.com/swiper-api)
 
 ---
-[react + typescript 환경에서 swiper 커스텀](https://yesroad.dev/react-typescript-swiper-coustom/)
+[react + typescript 환경에서 swiper 커스텀](https://yesroad.dev/react-typescript-swiper-custom/)
