@@ -17,8 +17,6 @@
 
 ### Documents
 ---
-> Theme By Dev.White Blog
-
-- **[https://github.com/junhobaik/junhobaik.github.io/](https://github.com/junhobaik/junhobaik.github.io/)**
+> Theme By **[Dev.White Blog](https://github.com/junhobaik/junhobaik.github.io/)**
 
 자세한 가이드는 [Document(Borderless)](<https://github.com/junhobaik/junhobaik.github.io/wiki/Document-(Borderless)>)를 확인해주세요.
