@@ -21,6 +21,8 @@ const gatsbyConfig = {
       resolve: `gatsby-plugin-gtag`,
       options: {
         trackingId: googleAnalytics,
+        head: false,
+        anonymize: true,
       },
     },
 
