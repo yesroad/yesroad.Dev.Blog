@@ -62,7 +62,7 @@ const Bio = () => {
       )}
 
       <div className="social">
-        <a href={`${config.siteUrl}/rss`} target="_blank" rel="noopener noreferrer">
+        <a href={`${config.siteUrl}/rss.xml`} target="_blank" rel="noopener noreferrer">
           <Fa icon={faRss} className="rss" />
         </a>
 
