@@ -12,7 +12,7 @@ keywords:
   - slick
   - slider
 ---
-![](../images/2021/swiper.png)
+![React Typescript 환경에서 Swiper 사용하기](../images/2021/swiper.png)
 ### Swiper
 
 ---
