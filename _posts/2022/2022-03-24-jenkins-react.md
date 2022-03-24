@@ -19,7 +19,7 @@ keywords:
 
 ![새로운 Item](../images/2022/jenkins/jenkins_item.png)
 
-1. ****Enter an item name****
+1. **Enter an item name**
     - 프로젝트 명 입력
 2. **Freestyle project 선택**
 
