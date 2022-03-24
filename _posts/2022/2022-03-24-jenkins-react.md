@@ -68,7 +68,7 @@ keywords:
 ![Build 시 실행되어야 할 스크립트](../images/2022/jenkins/jenkins_build02.png)
 
 1. nodeJs 설치
-    - 해당 링크 확인
+    - [Jenkins에 Node 설치하기](https://yesroad.dev/jenkins-node/) 참고
 2. Execute shell
     - 빌드시 실행 시킬 명령어
     1.  `cd /var/lib/jenkins/workspace/test/`
