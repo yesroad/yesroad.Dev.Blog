@@ -11,8 +11,6 @@ keywords:
   - ci
   - Cd
 ---
-# 02. jenkins
-
 ## 1. 젠킨스 아이템 생성
 
 ---
