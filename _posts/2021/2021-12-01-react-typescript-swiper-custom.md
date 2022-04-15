@@ -13,9 +13,6 @@ keywords:
   - slider
 ---
 ![React + typescript 환경에서 swiper 커스텀하기](../images/2021/swiper.png)
-
-> swiper 초기 세팅 
-
 ### Swiper 에서 커스텀을 위한 방법
 
 ---
